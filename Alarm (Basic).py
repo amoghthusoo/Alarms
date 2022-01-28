@@ -12,7 +12,4 @@ while True:
         break
     sleep(0.99)
 while True:
-    playsound('Kalki.wav')
-
-    
-
+    playsound('<example>.wav')   # Edit this line
