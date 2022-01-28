@@ -12,4 +12,4 @@ while True:
         break
     sleep(0.99)
 while True:
-    playsound('<example>.wav')   # Edit this line
+    playsound('<example>.wav')   # Edit this line.
