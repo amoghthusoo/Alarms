@@ -17,6 +17,5 @@ while True:
     if [hour, minute, second] == [h, m, s]:
         break  
 while True:
-    playsound('Kalki.wav')
-
-
+    playsound('<example>.wav')   # Edit this line.
+    
